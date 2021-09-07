@@ -2,11 +2,10 @@
 
 I'm a Java backend developer.
 
-- A lazy cancer developer
-- An interest-oriented developer
-- ACG fan
+- Lazy cancer patient developer
+- Interest-oriented developer
 - Hardware fan
-- ...
+- ACG fan
 
 Contact
 
