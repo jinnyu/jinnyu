@@ -9,5 +9,5 @@ I'm a Java backend developer.
 
 Contact
 
-- https://jinnyucn
+- https://jinnyu.cn
 - [email](mailto:jinyu@jinnyu.cn)
